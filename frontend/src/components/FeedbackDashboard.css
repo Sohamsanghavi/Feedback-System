@@ -1,0 +1,31 @@
+.feedback-dashboard {
+    flex: 2;
+    min-width: 500px;
+}
+
+.controls {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-bottom: 15px;
+}
+
+.feedback-dashboard table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+.feedback-dashboard th,
+.feedback-dashboard td {
+    padding: 10px;
+    border: 1px solid #ddd;
+    text-align: left;
+}
+
+.feedback-dashboard th {
+    background-color: #f0f0f0;
+}
+
+.feedback-dashboard tbody tr:nth-child(odd) {
+    background-color: #fafafa;
+}
