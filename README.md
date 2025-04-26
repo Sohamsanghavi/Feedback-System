@@ -26,3 +26,26 @@ Setup:
 git clone https://github.com/your-username/feedback-system.git
 cd feedback-system
 ```
+
+### 2. Set up the Backend
+```bash
+cd backend
+npm install
+```
+
+### 3. Start the backend server:
+```bash
+npm run dev
+```
+
+### 4. Set up the Frontend:
+```bash
+cd frontend
+npm install
+```
+
+### 5.Start the React frontend server:
+```bash
+npm start
+```
+
