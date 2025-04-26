@@ -35,7 +35,7 @@ npm install
 
 ### 3. Start the backend server:
 ```bash
-npm run dev
+nodemon server.js
 ```
 
 ### 4. Set up the Frontend:
