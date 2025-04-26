@@ -49,3 +49,9 @@ npm install
 npm start
 ```
 
+### Frontend For User Form
+![image](https://github.com/user-attachments/assets/e6d753cb-aed4-477f-bf54-efe0a069ad16)
+
+### Fronend For Dashboard
+![image](https://github.com/user-attachments/assets/2e7041af-2c02-4b8a-9bc1-09a8ebfe15bf)
+
